@@ -1,0 +1,31 @@
+body{
+	background-color:#e6ddb5;
+	font-family:Bahnschrift SemiBold;
+	color:black;
+	
+}
+h1{
+	font-family :Sonic XBd BT;
+	font-size :100px;
+nav a{
+	display:inline-block;
+	width:100px;
+	margin:10px;
+	padding:5px;
+	background-color: #e6ddb5;
+	border:5px solid #a69f81;
+	text-align:center;
+	color: black;
+}
+	
+
+#current{
+	display:inline-block;
+	width:100px;
+	margin:10px;
+	padding:5px;
+	background-color:#a69f81;
+	border:2px solid #e6ddb5;
+	color:#e6ddb5;
+	text-align:center;
+}
